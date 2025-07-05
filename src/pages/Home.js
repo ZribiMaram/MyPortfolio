@@ -14,9 +14,9 @@ function Home() {
       <Hero />
       <Projects />
       <About />
-      <Community/>
+      <Community />
       <Contact />
-  
+
       <FixSocialIcon />
       <Footer />
       <ScrollToTop />

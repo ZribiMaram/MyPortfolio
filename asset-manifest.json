@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MyPortfolio/static/css/main.fb1e536b.css",
-    "main.js": "/MyPortfolio/static/js/main.d1647ce6.js",
+    "main.js": "/MyPortfolio/static/js/main.87831704.js",
     "static/media/page11.png": "/MyPortfolio/static/media/page11.4f559b688b48b8ebd30b.png",
     "static/media/olym.png": "/MyPortfolio/static/media/olym.88d17487c60e328caf2b.png",
     "static/media/ykte-feature-graphic.png": "/MyPortfolio/static/media/ykte-feature-graphic.01a3fad4b4a535528045.png",
@@ -12,7 +12,7 @@
     "static/media/blog.png": "/MyPortfolio/static/media/blog.1aebe85677d3e82a4b18.png",
     "static/media/web.png": "/MyPortfolio/static/media/web.4e17695cf40d9d74c496.png",
     "static/media/tcpc22444.png": "/MyPortfolio/static/media/tcpc22444.375764f02a5d0c40dd3b.png",
-    "static/media/maramZribiCV2025.pdf": "/MyPortfolio/static/media/maramZribiCV2025.8fc07e12e852bd066f87.pdf",
+    "static/media/maramZribiCV2025.pdf": "/MyPortfolio/static/media/maramZribiCV2025.6f20d44788d42c35333f.pdf",
     "static/media/tcpcc.jpg": "/MyPortfolio/static/media/tcpcc.c19243e54bb3ef5ef802.jpg",
     "static/media/tct.jpg": "/MyPortfolio/static/media/tct.3e79dab9ee8d65badcf9.jpg",
     "static/media/tcpc2024.jpg": "/MyPortfolio/static/media/tcpc2024.8a57140ce8325f74d369.jpg",
@@ -22,10 +22,10 @@
     "static/media/footer_wave.svg": "/MyPortfolio/static/media/footer_wave.c37fb77960aea3e94246355f1196d18e.svg",
     "static/media/blob-haikei.svg": "/MyPortfolio/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
     "main.fb1e536b.css.map": "/MyPortfolio/static/css/main.fb1e536b.css.map",
-    "main.d1647ce6.js.map": "/MyPortfolio/static/js/main.d1647ce6.js.map"
+    "main.87831704.js.map": "/MyPortfolio/static/js/main.87831704.js.map"
   },
   "entrypoints": [
     "static/css/main.fb1e536b.css",
-    "static/js/main.d1647ce6.js"
+    "static/js/main.87831704.js"
   ]
 }
